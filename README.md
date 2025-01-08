@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swathi-Shree-Narashiman
+- 👋 Hi, I’m Swathi 
 - 👀 I’m interested in Machine Learning and Optimizaton
 - 📫 I am an Undergraduate pursuing Bachelors in Electrical Engineering at IIT Madras
 
